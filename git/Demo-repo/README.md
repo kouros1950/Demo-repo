@@ -8,4 +8,4 @@ watch the above video for instructions used here for education purposes only:
 
 https://youtu.be/RGOj5yH7evk?list=TLPQMjEwMzIwMjHWJ681k4LNpQ
 
-must test ssh-set more effectively make it work from local push cli-effort in VScode
+must test ssh-setup more to make it work from local push cli-effort in VScode.
